@@ -8,8 +8,8 @@ export default function StoryPage() {
     <>
       <PageHero
         eyebrow="The Story"
-        title="The man who built the hands."
-        lead="Forty years inside South African music. The clubs he ran, the festivals he produced, the artists he raised. And the night his sight began to go."
+        title="The man who built the music."
+        lead="Forty years inside South African music. The clubs he ran, the festivals he produced, the artists he raised, the night his sight began to go."
         meta={[
           { k: "Born", v: "1958, Alexandra" },
           { k: "In music since", v: "1984" },
@@ -74,9 +74,9 @@ export default function StoryPage() {
 
             <figure>
               <div className="img">
-                <div className="ph">[ ARCHIVE — BRA WILLY AND NNETE, T-SHED, 2022 ]</div>
+                <div className="ph">[ ARCHIVE — BRA WILLY AND NNETE, T-SHAD, 2022 ]</div>
               </div>
-              <figcaption>Bra Willy and Nnete Nkosi at T-Shed Community Centre, Tembisa, 2022.</figcaption>
+              <figcaption>Bra Willy and Nnete Nkosi at T-SHAD Community Centre, Tembisa, 2022.</figcaption>
             </figure>
 
             <h2>The Mandate</h2>

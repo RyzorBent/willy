@@ -20,7 +20,7 @@ export default function AboutPage() {
       <PageHero
         eyebrow="About"
         title="Six trustees. One mandate."
-        lead="A small board, picked for what they bring to the table, not for what they look like in a press release."
+        lead="A small board, picked for their expertise and passion for making a difference."
       />
       <section className="band cream">
         <div className="container">
@@ -45,7 +45,7 @@ export default function AboutPage() {
           <span className="eyebrow">Governance</span>
           <h2 className="mt-2 mb-2">How we keep ourselves honest.</h2>
           <p className="muted">
-            Registered NPC with five-plus trustees. Independent auditor (announced May 2026).
+            The Willy Foundation is a registered NPC with five-plus trustees. Independent auditor (announced May 2026).
             Quarterly management accounts published within 30 days. Audit &amp; Risk subcommittee
             signs off every disbursement above R 25,000. POPIA Information Officer: Ryzor Dlamini.
           </p>

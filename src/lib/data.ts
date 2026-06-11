@@ -16,10 +16,10 @@ export const PROGRAMMES: Programme[] = [
     num: "01",
     name: "Visually Impaired Assistance",
     blurb:
-      "Equipping individuals with assistive technology, mobility training, and the dignity of independent daily life.",
+      "Equipping individuals with assistive technology, mobility training, and the dignity of living as independent a life as possible.",
     raised: 412000,
     goal: 800000,
-    why: "In South Africa, an estimated 1.6 million people live with significant visual impairment. Less than 12% can afford the assistive technology that would let them work, study, or move freely. We close that gap one person at a time.",
+    why: "In South Africa, an estimated 1.6 million people live with significant visual impairment. Less than 12% can afford the assistive technology they need to work, study, or move freely. We close that gap.",
     activities: [
       "Direct grants for screen-readers, magnifiers, and white canes",
       "Orientation and mobility training in partnership with the SA Guide-Dogs Association",
@@ -32,12 +32,12 @@ export const PROGRAMMES: Programme[] = [
     num: "02",
     name: "NPO Partnership Grants",
     blurb:
-      "Annual capital grants to vetted partner organisations doing the close-up work in their own communities.",
+      "Annual capital grants to vetted partner organisations doing the work in their own communities.",
     raised: 285000,
     goal: 500000,
     why: "We don't believe one foundation can do this alone. The deepest expertise sits inside community NPOs already doing the work. We fund them, we don't replace them.",
     activities: [
-      "Inaugural grantee: T-Shed Community Centre, Tembisa",
+      "Inaugural grantee: T-SHAD Community Centre, Tembisa",
       "Annual open call for new partner NPOs (opens September)",
       "Two-year unrestricted operating grants of R150k–R350k",
     ],
@@ -64,10 +64,10 @@ export const PROGRAMMES: Programme[] = [
     num: "04",
     name: "Motivation & Mentorship",
     blurb:
-      "Bra Willy and the artists he raised, taking the message into schools, rehabilitation centres, and youth programmes.",
+      "Inspired by Bra Willy and the artists he raised, these talks and mentorship sessions inspire schools, rehabilitation centres, and youth programmes.",
     raised: 178000,
     goal: 400000,
-    why: "The hands that built South African music can build something else now. We pay our speakers fairly, we go where the audience cannot afford to come to us, and we never speak down.",
+    why: "The hands that built South African music continue their production. We pay our speakers fairly, we go where the audience cannot afford to come to us, and we never speak down.",
     activities: [
       "School visits across Gauteng, Limpopo, and the Eastern Cape",
       "Quarterly sessions at the Helen Joseph rehabilitation programme",
@@ -178,13 +178,13 @@ export const TRUSTEES = [
     initials: "WM",
     name: "Bra Willy Mabusela",
     role: "Founder & Patron",
-    bio: "Music industry veteran of forty years. Founder of Sweet Sounds Records. Visually impaired since 2018. The mandate of this Foundation is his.",
+    bio: "Music industry veteran of forty years. Founder of Sweet Sounds Records. Visually impaired since 2018. This Foundation's mandate is his.",
   },
   {
     initials: "NN",
     name: "Nnete Nkosi",
     role: "Trustee, Programmes",
-    bio: "Founder of T-Shed Community Centre, Tembisa. Twenty years working in township youth programmes. Holds the Foundation's beneficiary voice.",
+    bio: "Twenty years working in township youth programmes. Holds the Foundation's beneficiary voice.",
   },
   {
     initials: "TM",
