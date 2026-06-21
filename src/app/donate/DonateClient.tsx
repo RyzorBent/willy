@@ -136,7 +136,7 @@ export default function DonateClient() {
               <div>
                 <h3 style={{ marginBottom: 4 }}>Choose an amount</h3>
                 <p className="muted" style={{ marginBottom: 24 }}>
-                  In Rand. Any amount welcome — the small ones add up.
+                  In Rand. Any amount welcome.
                 </p>
                 <div className="amount-grid">
                   {ONCE_AMOUNTS.map((a) => (
